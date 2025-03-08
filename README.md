@@ -23,7 +23,7 @@ should be covered by a given test:
   are tools, such as [ESLint][eslint] and [Typescript][typescript], that help
   perform _static analysis_ on your code to catch these types of errors.
 - **Unit**: tests for individual "units" (which could be an individual function,
-  class, or component) in isolation from the rest of the application. The units
+  class, or component) in isolation from rest of the application. The units
   being tested shouldn't have any dependencies outside themselves. Unit tests
   are written in a framework like Jest.
 - **Integration**: testing multiple related units of the application and the
